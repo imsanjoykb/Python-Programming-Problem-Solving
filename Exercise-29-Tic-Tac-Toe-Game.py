@@ -177,15 +177,16 @@ def require_input(user, input_list, info_dict):
     while True:
         row, column = input("Round {}, {}'s turn:".format(info_dict['round'], user)).split()
         input_list = draw_turn(int(row), int(column), input_list, info_dict[user])
+
         if input_list != input_list_before:
+
             break
+
     draw_board_v2(input_list)
     return input_list
 
 def initiation():
-    '''
-    Ask user how large the game board you want
-    '''
+    '''Ask user how large the game board you want'''
     pass
 
 def to_the_end():
