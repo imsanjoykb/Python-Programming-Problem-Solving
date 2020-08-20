@@ -96,7 +96,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    
+
 
 # >>> %Run test.py
 # Welcome to Hangman!

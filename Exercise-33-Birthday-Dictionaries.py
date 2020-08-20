@@ -22,9 +22,12 @@ Happy coding!
 
 '''
 # Solution
+
 def show_all_in_dict(dict):
     """
     Print all the key in dict.
+
+
     
     Arguments:
     dict -- a dictionary needed to be print it's key.
@@ -38,6 +41,8 @@ def show_all_in_dict(dict):
 
 # Useless
 def search(query, dict):
+
+
     """
     Search the person's birthday is in the dict or not.
     
