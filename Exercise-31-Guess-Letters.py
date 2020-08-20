@@ -72,7 +72,7 @@ def win(word_list):
     """
 
     if '_' not in word_list:
-        
+
         return True
     else:
         return False
