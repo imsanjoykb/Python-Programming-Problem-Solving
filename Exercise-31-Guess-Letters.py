@@ -70,7 +70,9 @@ def win(word_list):
     Returns:
     True/False -- return True if the word has been guessed right alse return false.
     """
+
     if '_' not in word_list:
+        
         return True
     else:
         return False
@@ -81,7 +83,9 @@ def main():
     guess_list = ['_' for i in range(len(right_answer))]
     print(' '.join(guess_list))
     while True:
+
         guess = input('Guess your letter: ')
+
         guess_list = modify_list(guess_list, guess, right_answer)
         if win(guess_list) == True:
             print('You win!')
