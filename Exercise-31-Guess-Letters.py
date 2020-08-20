@@ -68,6 +68,7 @@ def win(word_list):
     word_list -- the word list.
     
     Returns:
+
     True/False -- return True if the word has been guessed right alse return false.
     """
 
@@ -84,6 +85,7 @@ def main():
     print(' '.join(guess_list))
     while True:
 
+
         guess = input('Guess your letter: ')
 
         guess_list = modify_list(guess_list, guess, right_answer)
@@ -93,6 +95,8 @@ def main():
     
 if __name__ == "__main__":
     main()
+
+    
 
 # >>> %Run test.py
 # Welcome to Hangman!
