@@ -1,9 +1,9 @@
 def merge_sort(array):
-    # derive the mid-point
+    # derive the mid-point..
     if len(array) > 1:
         mid = len(array) // 2
 
-        # create the temp sub-arrays
+        # create the temp sub-arrays..
         LEFT = array[:mid]
         RIGHT = array[mid:]
 
@@ -11,7 +11,7 @@ def merge_sort(array):
         merge_sort(LEFT)
         merge_sort(RIGHT)
 
-        # begin addig elements in sorted order
+        # begin addig elements in sorted order..
         i, j, k = 0, 0, 1
 
         while i < len(LEFT) and j < len(RIGHT):
@@ -23,7 +23,7 @@ def merge_sort(array):
                 j += 1
             k += 1
 
-        # copy the remaining data
+        # copy the remaining data..
         while i < len(LEFT):
             array[k] = LEFT[i]
             i += 1
