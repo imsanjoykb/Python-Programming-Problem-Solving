@@ -16,7 +16,7 @@ directory hierarchy for the images. Once you take a look at
 the first line or two of the file, it will be clear which part
 represents the scene category. To do this, you’re going to
 have to remember a bit about string parsing in Python 3.
-I talked a little bit about it in this post.
+I talked a little bit about it in this post...
 
 '''
 
