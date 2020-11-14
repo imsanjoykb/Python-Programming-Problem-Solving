@@ -18,7 +18,7 @@ Ada Lovelace
 >>> Who's birthday do you want to look up?
 Benjamin Franklin
 >>> Benjamin Franklin's birthday is 01/17/1706.
-Happy coding!
+Happy coding!!
 
 '''
 # Solution
