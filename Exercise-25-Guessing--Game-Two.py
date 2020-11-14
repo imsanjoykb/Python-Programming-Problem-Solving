@@ -10,7 +10,7 @@ program will guess a number, and you, the user, will say
 whether it is too high, too low, or your number.
 
 At the end of this exchange, your program should print out how
-many guesses it took to get your number.
+many guesses it took to get your number...
 
 '''
 # Solution
