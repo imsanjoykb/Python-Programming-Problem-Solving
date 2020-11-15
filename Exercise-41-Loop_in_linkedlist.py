@@ -15,6 +15,7 @@ def hasLoop(l_list):
         else:
             fast = fast.next_node
             slow = slow.next_node
+          #return
 
     return hasLoop
 
