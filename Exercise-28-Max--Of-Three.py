@@ -11,7 +11,7 @@ variables and if statements!
 
 '''
 
-# Solution
+# Solution of problem
 def get_input():
     """
     Get the user input number, split by space.
