@@ -1,4 +1,4 @@
-# A single procedure for splitting a paragraph into sentences and tokens
+# A single procedure for splitting a paragraph into sentences and tokens....
 import re
 
 product_review = '''This is a fine milk, but the product
