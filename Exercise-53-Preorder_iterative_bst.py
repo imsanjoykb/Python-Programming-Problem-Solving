@@ -12,3 +12,5 @@ def preOrderTraversal(root):
         left = current.left
         if left is not None:
             stack.insert(0, left)
+            
+            ##solve
