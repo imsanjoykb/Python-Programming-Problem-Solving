@@ -1,4 +1,4 @@
-# Creating a composable mixin
+## Creating a composable mixin
 class SpeakMixin:  # <1>
     def speak(self):
         name = self.__class__.__name__.lower()
