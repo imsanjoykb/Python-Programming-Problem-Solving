@@ -16,3 +16,5 @@ def permutations(word):
 
 given_input = "bc"
 print(permutations(given_input))
+
+#Solve
