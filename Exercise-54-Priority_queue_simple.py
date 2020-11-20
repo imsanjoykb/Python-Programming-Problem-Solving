@@ -14,7 +14,7 @@ class PriorityQueue(object):
   def isEmpty(self):
     return len(self.queue) == 0
 
-  # for inserting an element in the queue
+  ## for inserting an element in the queue
   def insert(self, data):
     self.queue.append(data)
 
