@@ -18,7 +18,7 @@ class PriorityQueue(object):
   def insert(self, data):
     self.queue.append(data)
 
-  # for popping an element based on Priority
+  ## for popping an element based on Priority
   def delete(self):
     try:
       max = 0
