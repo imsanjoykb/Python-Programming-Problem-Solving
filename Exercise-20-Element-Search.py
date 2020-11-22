@@ -12,7 +12,7 @@ Use binary search..
 
 '''
 
-# Solution
+# Solution...
 def search_in_simple(number_list, query):
     """
     Search query in number_list or not.
