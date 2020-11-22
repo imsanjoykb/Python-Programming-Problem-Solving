@@ -7,7 +7,7 @@ another number. The function decides whether or not the given
 number is inside the list and returns (then prints) an
 appropriate boolean.
 
-Extras:
+Extras::
 Use binary search.
 
 '''
