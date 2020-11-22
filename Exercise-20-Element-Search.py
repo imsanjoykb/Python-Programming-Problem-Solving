@@ -8,7 +8,7 @@ number is inside the list and returns (then prints) an
 appropriate boolean.
 
 Extras:::
-Use binary search.
+Use binary search..
 
 '''
 
