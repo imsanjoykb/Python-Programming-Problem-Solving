@@ -40,7 +40,7 @@ def search_in_binary(number_list, start, end, query):
     query -- a element.
     
     Returns:
-    True/False -- if query in number_list return True, else return False
+    True/False -- if query in number_list return True, else return False############
     """
     if start > end:
         return False
