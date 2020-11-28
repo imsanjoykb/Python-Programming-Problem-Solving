@@ -19,7 +19,7 @@ def search_in_simple(number_list, query):
     
     Arguments:
     number_list -- a list contain all the elements.
-    query -- a element
+    query -- a element #####
     
     Returns:
     True/False -- if query in number_list return True, else return False
