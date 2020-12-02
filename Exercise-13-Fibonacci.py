@@ -12,7 +12,7 @@ two numbers in the sequence. The sequence looks like this: 1, 1,
 
 '''
 
-####### Solution
+####### Solution of problem
 def fibo_generate(number):
     """
     Generate fibonnaci numbers.
