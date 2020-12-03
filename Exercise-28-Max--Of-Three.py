@@ -7,7 +7,7 @@ max() function!
 
 The goal of this exercise is to think about some internals that
 Python normally takes care of for us. All you need is some
-variables and if statements!
+variables and if statements!##
 
 '''
 
