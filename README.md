@@ -4,6 +4,6 @@
 
 Python programming practice
 Use of different types of function in python programming
-Data Types
+Data Types at Python Programming
 
 
