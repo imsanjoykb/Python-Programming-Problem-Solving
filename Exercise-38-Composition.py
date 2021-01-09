@@ -14,7 +14,7 @@ class Dog(SpeakMixin, RollOverMixin):  # <3>
     pass
 
 
-# Using the Dog class
+# Using the Dog class and method
 dog = Dog()
 dog.speak()
 dog.roll_over()
