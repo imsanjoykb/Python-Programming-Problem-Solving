@@ -1,4 +1,4 @@
-'''
+
 Exercise 7: List Comprehensions
 
 Let’s say I give you a list saved in a variable:
