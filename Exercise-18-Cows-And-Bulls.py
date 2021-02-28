@@ -1,8 +1,7 @@
 '''
 Exercise 18: Cows And Bulls
 
-Create a program that will play the “cows and bulls”
-game with the user. The game works like this:
+
 
 Randomly generate a 4-digit number. Ask the user to
 guess a 4-digit number. For every digit that the user
